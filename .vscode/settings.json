@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 60,
+  "editor.fontFamily": "Operator Mono",
+  "workbench.colorTheme": "Winter is Coming (Dark Black - No Italics)",
+  "typescript.suggest.enabled": false,
+  "javascript.suggest.enabled": false
+}
